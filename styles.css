@@ -1,3 +1,23 @@
-h1 {
-    border-color: aqua;
+.img {
+    text-align: left;
+    border-radius: 50px;
+    border-color: black;
+}
+h1{
+    font-weight: bold;
+}
+body {
+    align-content: center;
+}
+
+#button {
+    border-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    border-radius: 0dvh;
+    border-color: blue;
+    border-width: 50px;
+}
+.email{
+    font-style: italic;
 }
