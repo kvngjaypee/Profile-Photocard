@@ -1,0 +1,27 @@
+table {
+    margin: autos;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px 20px;
+}
+body {
+    font-family: 'poppins', sans-serif;
+    font-weight: 700;
+    text-align: left;
+}
+
+th {
+    background-color: darkgray;
+    color: white;
+}
+
+button {
+    border: none;
+    border-radius: 300px;
+    background: black; 
+    color: white;
+    font-size: medium;
+}
