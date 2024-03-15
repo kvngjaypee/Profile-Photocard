@@ -1,23 +1,30 @@
-.img {
-    text-align: left;
-    border-radius: 50px;
-    border-color: black;
+* {
+    margin: auto;
+    padding: 0;
 }
-h1{
-    font-weight: bold;
-}
-body {
-    align-content: center;
+ body {
+    font-size: 20px;
+    font-family: 'poppins', sans-serif;
+    background-color: antiquewhite;
+ }
+img {
+    border-radius: 450px;
+    width: 400px;
+    height: 300px;
+    size: 300px;
 }
 
+
 #button {
-    border-color: black;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 30px;
-    border-radius: 0dvh;
-    border-color: blue;
-    border-width: 50px;
+    border-radius: 20px;
+    letter-spacing: 0.75px;
+    align-items: left;
+    color: black;
+    text-align: left;
+    border: none;
+
 }
-.email{
+
+.email {
     font-style: italic;
 }
